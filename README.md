@@ -4,10 +4,10 @@ Make a new folder with name srivardhan_profile on desktop
 Open terminal and type the following commands
 
 
-cd desktop
+**cd desktop
 
 
-cd srivardhan_profile
+cd srivardhan_profile**
 
 
 
@@ -16,7 +16,7 @@ Then paste the following commands as follows one by one and wait till they downl
 
 
 
-git clone https://github.com/srigundeti10/profile.git
+**git clone https://github.com/srigundeti10/profile.git
 
 
 cd profile
@@ -31,4 +31,4 @@ npm install react-icons --save
 npm install emailjs-com --save
 
 
-npm start
+npm start**
