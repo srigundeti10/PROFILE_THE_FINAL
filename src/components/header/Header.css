@@ -45,14 +45,16 @@ background: var(--color-primary);
   }
 
 .me{
-  background:rgba(0, 255, 229, 0.147);
+  /* background-image: url('C:\Users\srigu\OneDrive\Desktop\Profile\profile\src\images\me.jpg'); */
+  /* background:rgba(0, 255, 229, 0.147); */
+  background-position: center top;
   width:22rem;
-  height:30rem;
+  height:100rem;
   position:absolute;
   left:calc(50% - 11rem);
-  margin-top:4rem;
+  /* margin-top:4rem; */
   border-radius: 4rem 10rem 4rem 10rem;
-  /* display: none; */
+
 }
 
 .scroll__down{

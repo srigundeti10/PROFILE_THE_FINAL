@@ -37,7 +37,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am currently a 4th Semester Mechanical Engineering student from Indian Institute Of Technology Guwahati
+              I am currently a 5th Semester Mechanical Engineering student from Indian Institute Of Technology Guwahati
             </p>
 
             <a href="#contact" className="btn btn-primary">Let's Talk</a>
