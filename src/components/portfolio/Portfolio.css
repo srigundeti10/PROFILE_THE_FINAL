@@ -26,6 +26,7 @@ border-color: black;
 }
 
 .portfolio__item-cta {
+  text-align: center;
   display:flex;
   gap:1rem;
   margin-bottom: 1rem;

@@ -21,7 +21,7 @@ const Portfolio = () => {
           <h3>Lamborghini</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target='_blank'>Github</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+            <a href="https://github.com" className="btn btn-primary" target='_blank'>Demo</a>
           </div>
         </artical>
         <artical className="portfolio__item">
@@ -31,7 +31,7 @@ const Portfolio = () => {
           <h3>Ferrari</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target='_blank'>Github</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+            <a href="https://github.com" className="btn btn-primary" target='_blank'>Demo</a>
           </div>
         </artical>
         <artical className="portfolio__item">
@@ -41,7 +41,7 @@ const Portfolio = () => {
           <h3>stocks</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target='_blank'>Github</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+            <a href="https://github.com" className="btn btn-primary" target='_blank'>Demo</a>
           </div>
         </artical>
         <artical className="portfolio__item">
@@ -51,7 +51,7 @@ const Portfolio = () => {
           <h3>stocks</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target='_blank'>Github</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+            <a href="https://github.com" className="btn btn-primary" target='_blank'>Demo</a>
           </div>
         </artical>
         <artical className="portfolio__item">
@@ -61,7 +61,7 @@ const Portfolio = () => {
           <h3>stocks</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target='_blank'>Github</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+            <a href="https://github.com" className="btn btn-primary" target='_blank'>Demo</a>
           </div>
         </artical>
         <artical className="portfolio__item">
@@ -71,7 +71,7 @@ const Portfolio = () => {
           <h3>stocks</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target='_blank'>Github</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+            <a href="https://github.com" className="btn btn-primary" target='_blank'>Demo</a>
           </div>
         </artical>
       </div>

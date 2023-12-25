@@ -21,6 +21,10 @@
   text-align:center;
 }
 
+.px{
+  text-align: center;
+}
+
 .experience__content{
   display:grid;
   grid-template-columns: 1fr 1fr;
