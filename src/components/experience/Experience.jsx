@@ -63,7 +63,7 @@ const Experience = () => {
               <HiBadgeCheck/>
               <div>
                <h4>Matlab</h4>
-               <small className='text-light'>Begginer</small>
+               <small className='text-light'>Beginner</small>
               </div>
             </artical>
             
@@ -72,7 +72,7 @@ const Experience = () => {
               <HiBadgeCheck/>
               <div>
                <h4>Solid Works</h4>
-               <small className='text-light'>Begginer</small>
+               <small className='text-light'>Beginner</small>
               </div>
             </artical>
             
