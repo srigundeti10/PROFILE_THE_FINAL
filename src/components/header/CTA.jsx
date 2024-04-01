@@ -1,5 +1,5 @@
 import React from 'react'
-import CV1 from '../../images/210103130_CV_Final.pdf'
+import CV1 from '../../images/Gundeti_Srivardhan_CV.pdf'
 // import CV2 from '../../images/CV_FrontEnd.pdf'
 
 const CTA = () => {
