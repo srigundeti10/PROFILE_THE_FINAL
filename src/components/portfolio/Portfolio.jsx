@@ -14,6 +14,18 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
+      <artical className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={Img5} alt="portfolio image 1" />
+          </div>
+          <h3>Optimizing Charging Time of EV’s</h3>
+          <h4> Jan. 2024 - Ongoing </h4>
+          <br></br>
+          <div className="portfolio__item-cta">
+            <a href="https://drive.google.com/file/d/1A242I9mi9xersJb-1igdKdNeSXtSqlCO/view?usp=sharing" className="btn" target='_blank'>Download Work</a>
+            {/* <a href="https://github.com" className="btn btn-primary" target='_blank'>Github Demo</a> */}
+          </div>
+        </artical>
         <artical className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={Img1} alt="portfolio image 1" />
@@ -64,18 +76,6 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a href="https://drive.google.com/drive/folders/1rePWHzAYnqnvTMAFgpL5QCi4t-iiFBxe?usp=sharing" className="btn" target='_blank'>Download Work</a>
             <a href="https://github.com/srigundeti10/Analysis-Machining.git" className="btn btn-primary" target='_blank'>Github Demo</a>
-          </div>
-        </artical>
-        <artical className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={Img5} alt="portfolio image 1" />
-          </div>
-          <h3>Analysis of Conventional Sugar Mill Roller Shaft</h3>
-          <h4> Dec. 2023 - Ongoing </h4>
-          <br></br>
-          <div className="portfolio__item-cta">
-            {/* <a href="https://github.com" className="btn" target='_blank'>Download Work</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Github Demo</a> */}
           </div>
         </artical>
         <artical className="portfolio__item">
