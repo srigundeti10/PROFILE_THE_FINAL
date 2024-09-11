@@ -1,5 +1,5 @@
 import React from 'react'
-import CV1 from '../../images/CV1_pub_in.pdf'
+import CV1 from '../../images/CV2_Core.pdf'
 // import CV2 from '../../images/CV_FrontEnd.pdf'
 
 const CTA = () => {
